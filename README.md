@@ -19,7 +19,7 @@ We prioritize reliability, scalability, and long-term value in every system we d
 
 For business inquiries only:
 
-* Email: [linktrix.corp@gmail.com](mailto:linktrix.corp@gmail.com)\
+* Email: [linktrix.corp@gmail.com](mailto:linktrix.corp@gmail.com)
 
 ---
 
