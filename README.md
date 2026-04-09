@@ -1,16 +1,34 @@
-## Hi there 👋
+# Linktrix
 
-<!--
-**linktrix-kr/linktrix-kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Business Registration No. 296-13-02782
 
-Here are some ideas to get you started:
+## 🏢 About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Linktrix is an independent business entity focused on building and operating digital solutions.
+We prioritize reliability, scalability, and long-term value in every system we design.
+
+## ⚙️ What We Do
+
+* Development of internal digital systems
+* Technical research and prototyping
+* Infrastructure and system optimization
+
+> *Detailed projects and services are not publicly disclosed.*
+
+## 🔒 Philosophy
+
+* Privacy-first approach
+* Sustainable and maintainable systems
+* Minimal but effective design
+
+## 📫 Contact
+
+For business inquiries only:
+
+* Email: [linktrix.corp@gmail.com](mailto:linktrix.corp@gmail.com)\
+
+---
+
+<p align="center">
+  <sub>© Linktrix 2026. All rights reserved.</sub>
+</p>
