@@ -15,12 +15,6 @@ We prioritize reliability, scalability, and long-term value in every system we d
 
 > *Detailed projects and services are not publicly disclosed.*
 
-## 🔒 Philosophy
-
-* Privacy-first approach
-* Sustainable and maintainable systems
-* Minimal but effective design
-
 ## 📫 Contact
 
 For business inquiries only:
